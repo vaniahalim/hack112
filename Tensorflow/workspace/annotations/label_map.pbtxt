@@ -3,7 +3,7 @@ item {
 	id:1
 }
 item { 
-	name:'allergic'
+	name:'allergy'
 	id:2
 }
 item { 
@@ -11,7 +11,7 @@ item {
 	id:3
 }
 item { 
-	name:'asl'
+	name:'ASL'
 	id:4
 }
 item { 
@@ -63,10 +63,10 @@ item {
 	id:16
 }
 item { 
-	name:'project'
+	name:'Project'
 	id:17
 }
 item { 
-	name:'enjoy'
+	name:'Enjoy'
 	id:18
 }
