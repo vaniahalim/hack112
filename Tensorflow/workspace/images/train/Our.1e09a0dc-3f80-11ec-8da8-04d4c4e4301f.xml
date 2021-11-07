@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Our.1e09a0dc-3f80-11ec-8da8-04d4c4e4301f.jpg</filename>
+	<path>C:\Users\sngho\Desktop\code\ASLtoSpeech\Tensorflow\workspace\images\collectedimages\Our.1e09a0dc-3f80-11ec-8da8-04d4c4e4301f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Our</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>356</ymin>
+			<xmax>441</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>down.180d8310-3f6d-11ec-8eb2-04d4c4e4301f.jpg</filename>
+	<path>C:\Users\sngho\Desktop\code\ASLtoSpeech\Tensorflow\workspace\images\collectedimages\down.180d8310-3f6d-11ec-8eb2-04d4c4e4301f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>68</ymin>
+			<xmax>472</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

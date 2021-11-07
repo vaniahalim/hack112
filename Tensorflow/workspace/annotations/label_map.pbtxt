@@ -1,0 +1,72 @@
+item { 
+	name:'afternoon'
+	id:1
+}
+item { 
+	name:'allergic'
+	id:2
+}
+item { 
+	name:'angry'
+	id:3
+}
+item { 
+	name:'asl'
+	id:4
+}
+item { 
+	name:'blood'
+	id:5
+}
+item { 
+	name:'call'
+	id:6
+}
+item { 
+	name:'can'
+	id:7
+}
+item { 
+	name:'deaf'
+	id:8
+}
+item { 
+	name:'doctor'
+	id:9
+}
+item { 
+	name:'down'
+	id:10
+}
+item { 
+	name:'Hi'
+	id:11
+}
+item { 
+	name:'Our'
+	id:12
+}
+item { 
+	name:'Speech'
+	id:13
+}
+item { 
+	name:'A'
+	id:14
+}
+item { 
+	name:'S'
+	id:15
+}
+item { 
+	name:'L'
+	id:16
+}
+item { 
+	name:'project'
+	id:17
+}
+item { 
+	name:'enjoy'
+	id:18
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>asl.e0302ee6-3f6b-11ec-8b00-04d4c4e4301f.jpg</filename>
+	<path>C:\Users\sngho\Desktop\code\ASLtoSpeech\Tensorflow\workspace\images\collectedimages\asl.e0302ee6-3f6b-11ec-8b00-04d4c4e4301f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ASL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>203</ymin>
+			<xmax>532</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

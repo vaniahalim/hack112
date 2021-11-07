@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>angry.94821521-3f6b-11ec-8e86-04d4c4e4301f.jpg</filename>
+	<path>C:\Users\sngho\Desktop\code\ASLtoSpeech\Tensorflow\workspace\images\collectedimages\angry.94821521-3f6b-11ec-8e86-04d4c4e4301f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>248</ymin>
+			<xmax>536</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
