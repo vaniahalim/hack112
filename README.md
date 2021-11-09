@@ -11,7 +11,7 @@ tensorflow 1.13.2\
 object_detection API\
 LabelImg\
 OpenCV\
-Keras\
+Keras
 
 How to use:
 Upon running the program, the user's camera will turn on so that it can be used to detect handsigns. Upon performing the signs for the words, the word being signed will be read and converted to text, and speech.
